@@ -1,0 +1,917 @@
+Archive member included because of file (symbol)
+
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__do_clear_bss)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__muldi3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__ashldi3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__fixunssfsi)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__floatundisf)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__subsf3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__mulsf3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__divsf3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__gtsf2)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__lesf2)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__floatsisf)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./MCAL/TIMERS/TIMERS_program.o (__floatunsisf)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o) (__mulsi3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o) (__prologue_saves__)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o) (__epilogue_restores__)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o) (__do_copy_data)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__lshrdi3)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__clz_tab)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/TIMERS/TIMERS_program.o
+LOAD ./MCAL/GIE/GIE_program.o
+LOAD ./MCAL/EXTI/EXTI_program.o
+LOAD ./MCAL/DIO/DIO_program.o
+LOAD ./ECUAL/LED/LED_program.o
+LOAD ./main.o
+LOAD d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3d22
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x10 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000060                __do_clear_bss
+ .init4         0x00000070       0x16 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000070                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_15
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/TIMERS/TIMERS_program.o
+ .text          0x00000092        0x0 ./MCAL/GIE/GIE_program.o
+ .text          0x00000092        0x0 ./MCAL/EXTI/EXTI_program.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_program.o
+ .text          0x00000092        0x0 ./ECUAL/LED/LED_program.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092      0x1f6 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+                0x00000092                __muldi3
+ .text          0x00000288       0xfe d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                0x00000288                __ashldi3
+ .text          0x00000386       0x58 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000386                __fixunssfsi
+ .text          0x000003de      0x1b8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+                0x000003de                __floatundisf
+ .text          0x00000596      0x354 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x0000082e                __subsf3
+                0x00000890                __addsf3
+ .text          0x000008ea      0x1f4 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x000008ea                __mulsf3
+ .text          0x00000ade      0x158 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000ade                __divsf3
+ .text          0x00000c36       0x60 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000c36                __gtsf2
+ .text          0x00000c96       0x60 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000c96                __gesf2
+ .text          0x00000cf6       0x60 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+                0x00000cf6                __lesf2
+ .text          0x00000d56       0xbc d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                0x00000d56                __floatsisf
+ .text          0x00000e12       0xa8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00000e12                __fixsfsi
+ .text          0x00000eba        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000eba       0xf2 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000eba                __floatunsisf
+ .text          0x00000fac        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000fac        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000fac        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000fac        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000fac       0xfe d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                0x00000fac                __lshrdi3
+ .text          0x000010aa        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x000010aa       0x9e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x000010aa                __clzsi2
+ .text          0x00001148      0x1aa d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00001148                __pack_f
+ .text          0x000012f2       0xf0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x000012f2                __unpack_f
+ .text          0x000013e2       0xb2 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x000013e2                __fpcmp_parts_f
+                0x00001494                . = ALIGN (0x2)
+ *(.text.*)
+ .text.TIMERS_voidTimer0Init
+                0x00001494       0x54 ./MCAL/TIMERS/TIMERS_program.o
+                0x00001494                TIMERS_voidTimer0Init
+ .text.TIMERS_voidTimer0SetCompareMatchValue
+                0x000014e8       0x1c ./MCAL/TIMERS/TIMERS_program.o
+                0x000014e8                TIMERS_voidTimer0SetCompareMatchValue
+ .text.TIMERS_voidTimer0SetPreloadValue
+                0x00001504       0x1c ./MCAL/TIMERS/TIMERS_program.o
+                0x00001504                TIMERS_voidTimer0SetPreloadValue
+ .text.TIMERS_voidTimer0CTCSetCallbackFunction
+                0x00001520       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00001520                TIMERS_voidTimer0CTCSetCallbackFunction
+ .text.TIMERS_voidTimer0OVFSetCallbackFunction
+                0x00001544       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00001544                TIMERS_voidTimer0OVFSetCallbackFunction
+ .text.TIMERS_voidTimer0Delay
+                0x00001568      0xca4 ./MCAL/TIMERS/TIMERS_program.o
+                0x00001568                TIMERS_voidTimer0Delay
+ .text.__vector_10
+                0x0000220c       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x0000220c                __vector_10
+ .text.__vector_11
+                0x00002272       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002272                __vector_11
+ .text.TIMERS_voidTimer1Init
+                0x000022d8       0x60 ./MCAL/TIMERS/TIMERS_program.o
+                0x000022d8                TIMERS_voidTimer1Init
+ .text.TIMERS_voidTimer1SetPreloadValue
+                0x00002338       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002338                TIMERS_voidTimer1SetPreloadValue
+ .text.TIMERS_voidTimer1SetTopValue
+                0x0000235c       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x0000235c                TIMERS_voidTimer1SetTopValue
+ .text.TIMERS_voidTimer1SetChannelACompareMatchValue
+                0x00002380       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002380                TIMERS_voidTimer1SetChannelACompareMatchValue
+ .text.TIMERS_voidTimer1SetCTCAInterruptControl
+                0x000023a4       0x54 ./MCAL/TIMERS/TIMERS_program.o
+                0x000023a4                TIMERS_voidTimer1SetCTCAInterruptControl
+ .text.TIMERS_voidTimer1SetChannelBCompareMatchValue
+                0x000023f8       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x000023f8                TIMERS_voidTimer1SetChannelBCompareMatchValue
+ .text.TIMERS_voidTimer1SetCTCBInterruptControl
+                0x0000241c       0x54 ./MCAL/TIMERS/TIMERS_program.o
+                0x0000241c                TIMERS_voidTimer1SetCTCBInterruptControl
+ .text.TIMERS_voidTimer1ICUSetSenseControl
+                0x00002470       0x56 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002470                TIMERS_voidTimer1ICUSetSenseControl
+ .text.TIMERS_u16Timer1ICUReadInputCapture
+                0x000024c6       0x16 ./MCAL/TIMERS/TIMERS_program.o
+                0x000024c6                TIMERS_u16Timer1ICUReadInputCapture
+ .text.TIMERS_voidTimer1ICUInterruptControl
+                0x000024dc       0x54 ./MCAL/TIMERS/TIMERS_program.o
+                0x000024dc                TIMERS_voidTimer1ICUInterruptControl
+ .text.TIMERS_voidTimer1ICUSetCallbackFunction
+                0x00002530       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002530                TIMERS_voidTimer1ICUSetCallbackFunction
+ .text.TIMERS_voidTimer1CTCASetCallbackFunction
+                0x00002554       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002554                TIMERS_voidTimer1CTCASetCallbackFunction
+ .text.TIMERS_voidTimer1CTCBSetCallbackFunction
+                0x00002578       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002578                TIMERS_voidTimer1CTCBSetCallbackFunction
+ .text.TIMERS_voidTimer1OVFSetCallbackFunction
+                0x0000259c       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x0000259c                TIMERS_voidTimer1OVFSetCallbackFunction
+ .text.__vector_6
+                0x000025c0       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x000025c0                __vector_6
+ .text.__vector_7
+                0x00002626       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002626                __vector_7
+ .text.__vector_8
+                0x0000268c       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x0000268c                __vector_8
+ .text.__vector_9
+                0x000026f2       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x000026f2                __vector_9
+ .text.TIMERS_voidTimer2Init
+                0x00002758       0x54 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002758                TIMERS_voidTimer2Init
+ .text.TIMERS_voidTimer2SetCompareMatchValue
+                0x000027ac       0x1c ./MCAL/TIMERS/TIMERS_program.o
+                0x000027ac                TIMERS_voidTimer2SetCompareMatchValue
+ .text.TIMERS_voidTimer2SetPreloadValue
+                0x000027c8       0x1c ./MCAL/TIMERS/TIMERS_program.o
+                0x000027c8                TIMERS_voidTimer2SetPreloadValue
+ .text.TIMERS_voidTimer2CTCSetCallbackFunction
+                0x000027e4       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x000027e4                TIMERS_voidTimer2CTCSetCallbackFunction
+ .text.TIMERS_voidTimer2OVFSetCallbackFunction
+                0x00002808       0x24 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002808                TIMERS_voidTimer2OVFSetCallbackFunction
+ .text.__vector_4
+                0x0000282c       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x0000282c                __vector_4
+ .text.__vector_5
+                0x00002892       0x66 ./MCAL/TIMERS/TIMERS_program.o
+                0x00002892                __vector_5
+ .text.GIE_voidEnableGlobalInterrupt
+                0x000028f8       0x1c ./MCAL/GIE/GIE_program.o
+                0x000028f8                GIE_voidEnableGlobalInterrupt
+ .text.GIE_voidDisableGlobalInterrupt
+                0x00002914       0x1c ./MCAL/GIE/GIE_program.o
+                0x00002914                GIE_voidDisableGlobalInterrupt
+ .text.EXTI_voidInit
+                0x00002930       0x54 ./MCAL/EXTI/EXTI_program.o
+                0x00002930                EXTI_voidInit
+ .text.EXTI_voidSetInt0SenseControl
+                0x00002984       0xde ./MCAL/EXTI/EXTI_program.o
+                0x00002984                EXTI_voidSetInt0SenseControl
+ .text.EXTI_voidSetInt1SenseControl
+                0x00002a62       0xde ./MCAL/EXTI/EXTI_program.o
+                0x00002a62                EXTI_voidSetInt1SenseControl
+ .text.EXTI_voidSetInt2SenseControl
+                0x00002b40       0x64 ./MCAL/EXTI/EXTI_program.o
+                0x00002b40                EXTI_voidSetInt2SenseControl
+ .text.EXTI_voidInt0SetCallBack
+                0x00002ba4       0x24 ./MCAL/EXTI/EXTI_program.o
+                0x00002ba4                EXTI_voidInt0SetCallBack
+ .text.__vector_1
+                0x00002bc8       0x66 ./MCAL/EXTI/EXTI_program.o
+                0x00002bc8                __vector_1
+ .text.EXTI_voidInt1SetCallBack
+                0x00002c2e       0x24 ./MCAL/EXTI/EXTI_program.o
+                0x00002c2e                EXTI_voidInt1SetCallBack
+ .text.__vector_2
+                0x00002c52       0x66 ./MCAL/EXTI/EXTI_program.o
+                0x00002c52                __vector_2
+ .text.EXTI_voidInt2SetCallBack
+                0x00002cb8       0x24 ./MCAL/EXTI/EXTI_program.o
+                0x00002cb8                EXTI_voidInt2SetCallBack
+ .text.__vector_3
+                0x00002cdc       0x66 ./MCAL/EXTI/EXTI_program.o
+                0x00002cdc                __vector_3
+ .text.DIO_u8SetPortDirection
+                0x00002d42       0x90 ./MCAL/DIO/DIO_program.o
+                0x00002d42                DIO_u8SetPortDirection
+ .text.DIO_u8SetPortValue
+                0x00002dd2       0x90 ./MCAL/DIO/DIO_program.o
+                0x00002dd2                DIO_u8SetPortValue
+ .text.DIO_u8GetPortValue
+                0x00002e62       0xb4 ./MCAL/DIO/DIO_program.o
+                0x00002e62                DIO_u8GetPortValue
+ .text.DIO_u8SetPinDirection
+                0x00002f16      0x224 ./MCAL/DIO/DIO_program.o
+                0x00002f16                DIO_u8SetPinDirection
+ .text.DIO_u8SetPinValue
+                0x0000313a      0x224 ./MCAL/DIO/DIO_program.o
+                0x0000313a                DIO_u8SetPinValue
+ .text.DIO_u8GetPinValue
+                0x0000335e      0x130 ./MCAL/DIO/DIO_program.o
+                0x0000335e                DIO_u8GetPinValue
+ .text.LED_voidInitLED
+                0x0000348e       0x74 ./ECUAL/LED/LED_program.o
+                0x0000348e                LED_voidInitLED
+ .text.LED_voidInitGroupOfLEDS
+                0x00003502       0xc2 ./ECUAL/LED/LED_program.o
+                0x00003502                LED_voidInitGroupOfLEDS
+ .text.LED_voidTurnOnLED
+                0x000035c4       0x42 ./ECUAL/LED/LED_program.o
+                0x000035c4                LED_voidTurnOnLED
+ .text.LED_voidTurnOnGroupOfLEDS
+                0x00003606       0x5e ./ECUAL/LED/LED_program.o
+                0x00003606                LED_voidTurnOnGroupOfLEDS
+ .text.LED_voidTurnOffLED
+                0x00003664       0x42 ./ECUAL/LED/LED_program.o
+                0x00003664                LED_voidTurnOffLED
+ .text.LED_voidTurnOffGroupOfLEDS
+                0x000036a6       0x5e ./ECUAL/LED/LED_program.o
+                0x000036a6                LED_voidTurnOffGroupOfLEDS
+ .text.LED_voidToggleLED
+                0x00003704       0xb4 ./ECUAL/LED/LED_program.o
+                0x00003704                LED_voidToggleLED
+ .text.LED_voidToggleGroupOfLEDS
+                0x000037b8       0xd2 ./ECUAL/LED/LED_program.o
+                0x000037b8                LED_voidToggleGroupOfLEDS
+ .text.LED_voidBlinkLED
+                0x0000388a      0x31c ./ECUAL/LED/LED_program.o
+                0x0000388a                LED_voidBlinkLED
+ .text.Int      0x00003ba6       0x38 ./main.o
+                0x00003ba6                Int
+ .text.main     0x00003bde       0x94 ./main.o
+                0x00003bde                main
+ .text.libgcc   0x00003c72        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003c72        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003c72       0x3e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x00003c72                __mulsi3
+ .text.libgcc   0x00003cb0       0x38 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003cb0                __prologue_saves__
+ .text.libgcc   0x00003ce8       0x36 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00003ce8                __epilogue_restores__
+ .text.libgcc   0x00003d1e        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00003d1e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003d1e        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00003d1e                exit
+                0x00003d1e                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003d1e        0x4 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003d22                _etext = .
+
+.data           0x00800060      0x108 load address 0x00003d22
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/TIMERS/TIMERS_program.o
+ .data          0x00800060        0x0 ./MCAL/GIE/GIE_program.o
+ .data          0x00800060        0x0 ./MCAL/EXTI/EXTI_program.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_program.o
+ .data          0x00800060        0x0 ./ECUAL/LED/LED_program.o
+ .data          0x00800060        0x0 ./main.o
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00800060        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800068        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800068        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800068        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .data          0x00800068      0x100 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800068                __clz_tab
+ .data          0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800168                . = ALIGN (0x2)
+                0x00800168                _edata = .
+                0x00800168                PROVIDE (__data_end, .)
+
+.bss            0x00800168       0x38
+                0x00800168                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800168        0x0 ./MCAL/TIMERS/TIMERS_program.o
+ .bss           0x00800168        0x0 ./MCAL/GIE/GIE_program.o
+ .bss           0x00800168        0x0 ./MCAL/EXTI/EXTI_program.o
+ .bss           0x00800168        0x0 ./MCAL/DIO/DIO_program.o
+ .bss           0x00800168        0x0 ./ECUAL/LED/LED_program.o
+ .bss           0x00800168        0x0 ./main.o
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800168        0x0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ .bss.Global_pvArrayFunction
+                0x00800168       0x10 ./MCAL/TIMERS/TIMERS_program.o
+ .bss.Global_pvInt0NotifcationFunction
+                0x00800178        0x2 ./MCAL/EXTI/EXTI_program.o
+ .bss.Global_pvInt1NotifcationFunction
+                0x0080017a        0x2 ./MCAL/EXTI/EXTI_program.o
+ .bss.Global_pvInt2NotifcationFunction
+                0x0080017c        0x2 ./MCAL/EXTI/EXTI_program.o
+ .bss.LEDS      0x0080017e       0x22 ./ECUAL/LED/LED_program.o
+                0x0080017e                LEDS
+ *(COMMON)
+                0x008001a0                PROVIDE (__bss_end, .)
+                0x00003d22                __data_load_start = LOADADDR (.data)
+                0x00003e2a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001a0        0x0
+                0x008001a0                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001a0                PROVIDE (__noinit_end, .)
+                0x008001a0                _end = .
+                0x008001a0                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x2508
+ *(.stab)
+ .stab          0x00000000      0xbac ./MCAL/TIMERS/TIMERS_program.o
+ .stab          0x00000bac      0x1d4 ./MCAL/GIE/GIE_program.o
+                                0x1e0 (size before relaxing)
+ .stab          0x00000d80      0x6c0 ./MCAL/EXTI/EXTI_program.o
+                                0x6cc (size before relaxing)
+ .stab          0x00001440      0x750 ./MCAL/DIO/DIO_program.o
+                                0x75c (size before relaxing)
+ .stab          0x00001b90      0x708 ./ECUAL/LED/LED_program.o
+                                0x714 (size before relaxing)
+ .stab          0x00002298      0x270 ./main.o
+                                0x27c (size before relaxing)
+
+.stabstr        0x00000000     0x1501
+ *(.stabstr)
+ .stabstr       0x00000000     0x1501 ./MCAL/TIMERS/TIMERS_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x240
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x00000020       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000040       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000060       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000100       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x00000120       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_aranges
+                0x00000140       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000160       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000180       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x000001c0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000001e0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000200       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000220       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x297
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_pubnames
+                0x0000001f       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_pubnames
+                0x0000003f       0x23 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000062       0x24 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_pubnames
+                0x00000086       0x2c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x000000b2       0x1f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x000000d1       0x1f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x000000f0       0x1e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000010e       0x1e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x0000012c       0x1e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_pubnames
+                0x0000014a       0x22 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x0000016c       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x0000018c       0x22 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x000001ae       0x24 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_pubnames
+                0x000001f2       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_pubnames
+                0x00000212       0x1f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000231       0x1f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000250       0x21 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000271       0x26 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x2c78
+ *(.debug_info)
+ .debug_info    0x00000000      0x206 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_info    0x00000206      0x17f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_info    0x00000385       0xb1 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x00000436      0x162 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_info    0x00000598      0x47a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x00000a12      0x485 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x00000e97      0x3fc d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00001293      0x27f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00001512      0x27f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00001791      0x27f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_info    0x00001a10      0x207 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_info    0x00001c17      0x2b0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x00001ec7      0x12c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001ff3      0x206 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x000021f9      0x17f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_info    0x00002378       0xa9 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_info    0x00002421      0x117 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00002538      0x2df d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00002817      0x251 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002a68      0x210 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x186d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xf0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_abbrev  0x000000f0       0xee d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x000001de       0x5d d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000023b       0xd3 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_abbrev  0x0000030e      0x1ea d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x000004f8      0x21b d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000713      0x216 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000929      0x15a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000a83      0x15a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000bdd      0x15a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_abbrev  0x00000d37      0x148 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000e7f      0x17f d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000ffe       0xad d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x000010ab      0x157 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00001202       0xee d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000012f0       0x6a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_abbrev  0x0000135a       0xc4 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000141e      0x1c0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000015de      0x154 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001732      0x13b d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000     0x1665
+ *(.debug_line)
+ .debug_line    0x00000000       0xaf d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_line    0x000000af       0xd7 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_line    0x00000186       0xa7 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x0000022d       0xfd d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_line    0x0000032a      0x2af d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x000005d9      0x239 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x00000812      0x1d5 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x000009e7       0xd3 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000aba       0xd3 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000b8d       0xd3 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_line    0x00000c60      0x135 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000d95      0x109 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000e9e       0x90 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000f2e      0x133 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00001061       0xd7 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_line    0x00001138       0x7c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_line    0x000011b4       0xa5 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00001259      0x18a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x000013e3      0x14b d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x0000152e      0x137 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x260
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_frame   0x00000020       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_frame   0x00000040       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000060       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_frame   0x00000080       0x40 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x000000c0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x00000100       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000120       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000140       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_frame   0x00000160       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000180       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000001a0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x000001c0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_frame   0x000001e0       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000200       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000220       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000240       0x20 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x392
+ *(.debug_str)
+ .debug_str     0x00000000       0xed d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+                                0x13f (size before relaxing)
+ .debug_str     0x000000ed       0x23 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x00000110       0x14 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x00000124       0x39 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+                                0x12a (size before relaxing)
+ .debug_str     0x0000015d      0x14d d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x000002aa       0x27 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x000002d1       0x35 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000306        0x8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000030e        0x8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000316        0x8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000031e       0x18 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                                0x17b (size before relaxing)
+ .debug_str     0x00000336        0xa d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000340       0x14 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x00000354        0xa d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x00000000       0xf4 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_str     0x0000035e        0x9 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x00000367       0x10 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000377        0xb d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x00000382       0x10 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0xec0
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xcc d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_loc     0x000000cc       0xf8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_loc     0x000001c4       0x34 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x000001f8      0x1ea d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_loc     0x000003e2      0x32a d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000070c      0x104 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000810       0xc0 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x000008d0       0x3c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000090c       0x3c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x00000948       0x3c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_loc     0x00000984       0xac d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00000a30       0x7e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000aae       0x4c d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000afa       0xf8 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_loc     0x00000bf2       0x94 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000c86      0x13e d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000dc4       0xac d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00000e70       0x50 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(LED.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 d:/courses/embeddedsystems/sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
