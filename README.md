@@ -5,6 +5,23 @@ Traffic lights are signaling devices positioned at road intersections, pedestria
 
 The regular traffic light colors are red, yellow, and green arranged vertically or horizontally in that order. Although this is internationally standardized, variations exist on national and local scales as to traffic light sequences and laws.  
 
+## The project can be distributed over 4 main tasks:
+
+### System Design
+* Make full static architecture for your system.
+
+### Prepare Development environment
+* Apply layered architecture to project's folder structure.
+
+### Application
+* Implement drivers.
+* Test your drivers.
+* Implement system flow.
+
+### Testing
+* Test 5 user stories.
+  
+  
 ## Hardware
 1. ATmega32 microcontroller.
 2. One push button connected to (INT0 / INT1 / INT2) pin for pedestrian.
@@ -48,18 +65,9 @@ Every driver has 4 files `interface.h` `config.h` `private.h` `program.c`
 
 > Note: there is a folder called **Utilites** this folder contains utilities or files that will be used in all layers like the standard data types or bit manipulation.
 
-## The project can be distributed over 4 main tasks:
-
-### System Design
-* Make full static architecture for your system.
-
-### Prepare Development environment
-* Apply layered architecture to project's folder structure.
-
-### Application
-* Implement drivers.
-* Test your drivers.
-* Implement system flow.
-
-### Testing
-* Test 5 user stories.
+## User stories (Test cases)
+* **User story 1:** As a pedestrian when I will make a short press on the crosswalk button while the cars green light is on and pedestrian red light is off, I will wait for the yellow lights to blink for five seconds then the cars red light is on and pededstrian green light is on for five seconds, so that I can cross the street.
+* **User story 2:** As a pedestrian when I will make a short press on the crosswalk button while the cars yellow light is blinking and pedestrian red light is on, I will wait for all yellow lights to blink for five seconds then the cars red light is on and pededstrian green light is on for five seconds, so that I can cross the street
+* **User story 3:** As a pedestrian when I will make a short press on the crosswalk button while the cars red light is on and pedestrian green light is on, I expect nothing to be done
+* **User story 4:** As a pedestrian when I made a long press on the crosswalk button, I expect nothing to be done.
+* **User story 5:** As a pedestrian when I made a double press on the crosswalk button, I expect that the first press will do the action and nothing to be done after the second press.
